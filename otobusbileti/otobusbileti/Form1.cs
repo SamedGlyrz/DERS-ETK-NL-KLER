@@ -17,24 +17,13 @@ namespace otobusbileti
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void radioButton10_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void radioButton6_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
-        {
-
+            if (comboBox1.SelectedItem == "İstanbul" && comboBox2.SelectedItem == "Ankara")
+            {
+                Form2 form2 = new Form2();
+                form2.Show();
+            }
         }
     }
 }

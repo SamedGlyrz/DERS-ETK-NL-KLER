@@ -8,3 +8,14 @@ C:\Users\Administrator\Desktop\sammet\otobusbileti\otobusbileti\obj\Debug\otobus
 C:\Users\Administrator\Desktop\sammet\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\sammet\otobusbileti\otobusbileti\obj\Debug\otobusbileti.exe
 C:\Users\Administrator\Desktop\sammet\otobusbileti\otobusbileti\obj\Debug\otobusbileti.pdb
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\bin\Debug\otobusbileti.exe.config
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\bin\Debug\otobusbileti.exe
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\bin\Debug\otobusbileti.pdb
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Form1.resources
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Properties.Resources.resources
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.exe
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.pdb
+C:\Users\Administrator\Desktop\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Form2.resources
